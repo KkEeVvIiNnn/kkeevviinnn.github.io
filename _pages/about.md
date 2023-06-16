@@ -16,9 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is Wei Xu, currently a graduate student of the Gaoling School of Artificial Intelligence, Renmin University of China. I'm now under the supervision of Prof. Zhicheng Dou.
-
-My research interest includes the Information Retrieval and Natrual Language Processing.
+# About me
+I am a first-year Master student studying Artificial Intelligence at Renmin University of China, advised by Zhicheng Dou. I am broadly interested in the Information Retrieval and Natrual Language Processing.
 
 # 📝 Publications 
 - ``CIKM 2021`` [Pre-training for ad-hoc retrieval: hyperlink is also you need](https://arxiv.org/abs/2108.09346), Zhengyi Ma, Zhicheng Dou, **Wei Xu**, Xinyu Zhang, Hao Jiang, Zhao Cao, Ji-Rong Wen
