@@ -30,4 +30,4 @@ I am a first-year Master student studying Artificial Intelligence at Renmin Univ
 - *2018.09 - 2022.06*, Undergraduate, School of Information, Renmin University of China, Beijing, China.
 
 # 💻 Internships
-- *202.02 - (now)*, [MSRA, Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/), Beijing.
+- *2022.02 - (now)*, [MSRA, Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/), Beijing.
