@@ -25,7 +25,7 @@ My research interest includes the Information Retrieval and Natrual Language Pro
 
 # 🎖 Honors and Awards
 - *2021.12* National Scholarship (Undergraduate) (Top 1%)
-- 
+
 # 📖 Educations
 - *2022.09 - (now)*, Master, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China.
 - *2018.09 - 2022.06*, Undergraduate, School of Information, Renmin University of China, Beijing, China.
