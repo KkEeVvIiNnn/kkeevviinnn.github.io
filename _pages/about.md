@@ -21,13 +21,14 @@ My name is Wei Xu, currently a graduate student of the Gaoling School of Artific
 My research interest includes the Information Retrieval and Natrual Language Processing.
 
 # 📝 Publications 
-
-- [Pre-training for ad-hoc retrieval: hyperlink is also you need], Zhengyi Ma, Zhicheng Dou, Wei Xu, Xinyu Zhang, Hao Jiang, Zhao Cao, Ji-Rong Wen, **CIKM 2021**
+- ``CIKM 2021`` [Pre-training for ad-hoc retrieval: hyperlink is also you need](https://arxiv.org/abs/2108.09346), Zhengyi Ma, Zhicheng Dou, **Wei Xu**, Xinyu Zhang, Hao Jiang, Zhao Cao, Ji-Rong Wen
 
 # 🎖 Honors and Awards
-
+- *2021.12* National Scholarship (Undergraduate) (Top 1%)
+- 
 # 📖 Educations
-- *2022.09 - (now)*, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China
-- *2018.09 - 2022.06*, School of Information, Renmin University of China, Beijing, China 
+- *2022.09 - (now)*, Master, Gaoling School of Artificial Intelligence, Renmin University of China, Beijing, China.
+- *2018.09 - 2022.06*, Undergraduate, School of Information, Renmin University of China, Beijing, China.
 
 # 💻 Internships
+- *202.02 - (now)*, [MSRA, Social Computing Group](https://www.microsoft.com/en-us/research/group/social-computing-beijing/), Beijing.
